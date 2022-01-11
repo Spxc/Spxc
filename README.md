@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Spxc
-- 👀 I’m interested in NodeJS and React
-- 🌱 I’m currently learning Cybersecurity
+- 👋 Hi, I’m @Spxc, CTO working fulltime in Oslo
+- 👀 I’m interested in NodeJS and ReactNative
+- 🌱 I’m currently learning Cybersecurity and more
 - 📫 How to reach me https://instebø.com
 
 <!---
