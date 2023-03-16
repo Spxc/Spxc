@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Spxc, CTO working fulltime in Oslo
-- 👀 I’m interested in NodeJS and ReactNative
-- 🌱 I’m currently learning Cybersecurity and more
+- 👀 Blockchain dev
 
 <!---
 Spxc/Spxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
