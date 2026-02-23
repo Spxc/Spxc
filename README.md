@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Spxc, CTO working fulltime in Oslo
+- 👋 Hi, I’m @Spxc, a Tech Lead working fulltime in Oslo
+- ⚡️ Working in the renewable energy space
 - 👀 Blockchain dev
 
 <!---
